@@ -16,4 +16,4 @@ no_index:
     - inc
 resources:
   repository: https://github.com/jonathanstowe/Device-PiGlow.git
-version: 1.0
+version: 1.1
